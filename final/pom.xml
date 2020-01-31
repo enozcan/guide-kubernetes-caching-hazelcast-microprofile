@@ -26,7 +26,7 @@
         <version.dockerfile-maven-plugin>1.4.12</version.dockerfile-maven-plugin>
 
         <!-- Hazelcast Versions -->
-        <version.hazelcast>3.12.5</version.hazelcast>
+        <version.hazelcast>3.12.6</version.hazelcast>
         <version.hazelcast-kubernetes>1.5.1</version.hazelcast-kubernetes>
 
         <!-- OpenLiberty runtime -->
