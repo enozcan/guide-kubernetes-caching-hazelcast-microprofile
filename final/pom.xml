@@ -27,7 +27,7 @@
 
         <!-- Hazelcast Versions -->
         <version.hazelcast>3.12.6</version.hazelcast>
-        <version.hazelcast-kubernetes>1.5.1</version.hazelcast-kubernetes>
+        <version.hazelcast-kubernetes>2.0.1</version.hazelcast-kubernetes>
 
         <!-- OpenLiberty runtime -->
         <version.openliberty-runtime>RELEASE</version.openliberty-runtime>
